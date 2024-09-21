@@ -32,14 +32,14 @@
 ![Screenshot 2024-09-16 215348](https://github.com/user-attachments/assets/1a498fc7-404f-4c07-b6ac-0c8cad383757)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Command Prompt
 </p>
-<br />
+
 
 ![Screenshot 2024-09-21 080143](https://github.com/user-attachments/assets/14d8d197-a51e-4acf-82a6-b38b53f948fb)
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Created Virtual Machine using Azure to observe IP traffic
 </p>
 <br />
 
@@ -47,10 +47,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+IPconfig running checks using Command Prompt
 </p>
 <br />
-
-![Screenshot 2024-09-21 080548](https://github.com/user-attachments/assets/82d03956-0787-4a9d-9ec4-97cbf342643d)
-
-
